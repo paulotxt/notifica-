@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816046200732",
+    "project_id": "notifica-f3565",
+    "storage_bucket": "notifica-f3565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816046200732:android:0a3c3ae6622e74c43cda59",
+        "android_client_info": {
+          "package_name": "com.notifica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCOlsOUmYcfBfziHtZ3z6eHhXHZj83Wt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
